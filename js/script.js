@@ -102,7 +102,6 @@ $(document).ready(function() {
   });
 
   // Parallax
-
   // setTimeout serve para carregar primeiro as imagens
   setTimeout(function() {
     $('#data-area').parallax({imageSrc: 'img/cidadeparallax.png'});
